@@ -1,0 +1,7 @@
+native give_dual_infinity( id )
+native give_weapon_ddeagle ( id )
+native give_weapon_plasmagun ( id )
+native give_weapon_gatling ( id )
+native give_weapon_balrog11 ( id )
+native fcs_get_user_credits ( id )  
+native fcs_set_user_credits ( id, cantitate )
