@@ -1,0 +1,12 @@
+[en]
+FURIEN_MENU_CVAR:
+\rFuriens Cvars\w :^n^n
+To take full advantage of Furien Mod,^n
+you must allow server to change your speed settings.^n
+Do you accept ?
+:
+FURIEN_FURIEN_WIN_MSG =
+FURIEN_ANTI_WIN_MSG =
+FURIEN_CREDIT = [GG] Furien Mod Created By D4RQS1D3R
+FURIEN_LINK = https://www.Geek-Gamers.com
+

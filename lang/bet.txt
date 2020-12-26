@@ -1,0 +1,152 @@
+[en]
+TEAM_DEAD = You can not bet when one of the teams is dead!
+TEAM_DEAD_ODDS = One of the teams is dead!
+SAME_ODDS = Odds are %d to %d.
+DIFF_ODDS = Odds are %d to %d if you bet for terrorists.
+BET_HELP = Use ^"bet team amount^" to bet. Examples: ^"bet t all^" or ^"bet ct 250^" or ^"bet t half^"
+NO_AMOUNT = Amount not provided. Please type ^"bet^" to get further help.
+INVALID_TEAM = Invalid team name ^"%s^". Please use t or ct to target a team.
+NO_MONEY = You don't have money to bet with!
+INVALID_AMOUNT = Invalid amount ^"%s^". Please use all, half or any other numeric amount.
+BIGGER_BET = You have $%d, you can not bet $%d.
+PLAYER_ALIVE = You can only bet if you are dead.
+ALREADY_PLACED = You have already placed your bet!
+BET_PLACED = Bet placed. Odds are %d to %d You stand to win $%d on top of your $%d bet.
+BET_WIN = You won $%d.
+BET_LOST = You lost your $%d bet.
+
+[de]
+TEAM_DEAD = Du kannst nicht setzen wenn eines der Teams bereits tot ist!
+TEAM_DEAD_ODDS = Eines der Teams ist tot!
+SAME_ODDS = Die Chancen stehen %d zu %d.
+DIFF_ODDS = Die Chancen stehen %d zu %d wenn du auf die Terroristen setzt.
+BET_HELP = Benutze ^"bet team amount^" um zu setzen. Beispiele: ^"bet t all^" oder ^"bet ct 250^" oder ^"bet t half^"
+NO_AMOUNT = Betrag nicht angegeben. Bitte tippe ^"bet^" ein um die Hilfe aufzurufen.
+INVALID_TEAM = Falscher Team Name ^"%s^". Bitte benutze t oder ct um ein Team zu wählen.
+NO_MONEY = Du hast kein Geld um zu setzen!
+INVALID_AMOUNT = Falscher Betrag ^"%s^". Bitte benutze all, half oder eine Zahl als Mengenangabe.
+BIGGER_BET = Du hast %d$, du kannst keine %d$ setzen.
+PLAYER_ALIVE = Du kannst nur setzen wenn du tot bist.
+ALREADY_PLACED = Du hast bereits gesetzt.
+BET_PLACED = Wetteinsatz gesetzt. Chancen stehen %d zu %d. Du kannst %d$ zusaetzlich zu deinem Einsatz von %d$ gewinnen.
+BET_WIN = Du hast %d$ gewonnen.
+BET_LOST = Du hast deinen Wetteinsatz von %d$ verloren.
+
+[sr]
+TEAM_DEAD = Nemozete se kladiti kada je jedna ekipa mrtva!
+TEAM_DEAD_ODDS = Jedna od ekipa je mrtva!
+SAME_ODDS = Kvota je %d prema %d.
+DIFF_ODDS = Kvota je %d prema %d ako se kladite na terore.
+BET_HELP = Koristiti ^"bet tim svota^" za kladjenje. Primeri: ^"bet t all^" ili ^"bet ct 250^" ili ^"bet t half^"
+NO_AMOUNT = Niste uneli svotu. Molim kucajte ^"bet^" za dalju pomoc.
+INVALID_TEAM = Pogresno uneto ime ekipe ^"%s^". Molim koristiti t ili ct.
+NO_MONEY = Nemate novca za kladjenje!
+INVALID_AMOUNT = Pogresno uneta svota ^"%s^". Molim koristiti all, half ili bilo koju drugu numericku vrednost.
+BIGGER_BET = Imate $%d, nemozete uloziti $%d.
+PLAYER_ALIVE = Mozete se kladiti samo ako ste mrtvi.
+ALREADY_PLACED = Vec ste se kladili u ovoj rundi!
+BET_PLACED = Opklada prihvacena. Sanse su %d prema %d Mozete dobiti $%d preko vaseg $%d uloga.
+BET_WIN = Dobili ste $%d.
+BET_LOST = Izgubili ste vasu $%d opkladu.
+
+[nl]
+TEAM_DEAD = Je kan niet gokken als er al een team dood is!
+TEAM_DEAD_ODDS = Een van de teams is dood!
+SAME_ODDS = Kansen zijn %d tegen %d.
+DIFF_ODDS = Kansen zijn %d tegen %d als je voor de Terroristem gokt.
+BET_HELP = Gebruik ^"bet team amount^" om te gokken. Voorbeelden: ^"bet t all^", ^"bet ct 250^" of ^"bet t half^"
+NO_AMOUNT = Hoeveelheid is niet toegestaan. Schrijf ^"bet^" in de chat voor hulp.
+INVALID_TEAM = Ongeldige naam van een team: ^"%s^". Gelieve 't' of 'ct' te gebruiken.
+NO_MONEY = Je hebt geen geld om mee te gokken!
+INVALID_AMOUNT = Ongeldige hoeveelheid: ^"%s^". Gelieve 'all', 'half' of 'any' te gebruiken.
+BIGGER_BET = Je hebt $%d, je kan niet voor $%d gokken.
+PLAYER_ALIVE = Je kan alleen gokken als je dood bent.
+ALREADY_PLACED = Je hebt reeds een gok gewaagd!
+BET_PLACED = Gok geplaatst. Kansen zijn %d tegen %d. Je kan $%d winnen bovenop je $%d gok.
+BET_WIN = Jij won $%d.
+BET_LOST = Je verloor je $%d gok.
+
+[cz]
+TEAM_DEAD = Nemuzes vsadit, kdyz je jeden z teamu mrtvy!
+TEAM_DEAD_ODDS = Jeden z teamu je mrtvy!
+SAME_ODDS = Sance jsu %d k %d.
+DIFF_ODDS = Sance jsu %d k %d kdyz vsadis na teroristy.
+BET_HELP = Pouzij ^"bet team amount^" pro vsadeni. Priklad: ^"bet t all^" nebo ^"bet ct 250^" nebo ^"bet t half^"
+NO_AMOUNT = Neurcil jsi castku. Pro pomoc napis ^"bet^".
+INVALID_TEAM = Nespravne jmeno teamu ^"%s^". Pouzij t nebo ct pro oznaceni teamu.
+NO_MONEY =Pro vsadeni nemas penize!
+INVALID_AMOUNT = Nespravna castka ^"%s^". Pouzij all (vsechno), half (polovina) nebo jinou, numerickou castku.
+BIGGER_BET = Mas $%d, nemuzes vsadit $%d.
+PLAYER_ALIVE = Muzes vsadit jenom tehdy, kdy jses mrtev.
+ALREADY_PLACED = Uz jsi vsadil!
+BET_PLACED = Stavka prijata. Sance jsu %d k %d Muzes vyhrat $%d maximum $%d sazky.
+BET_WIN = Vyhral jsi $%d.
+BET_LOST = Prohral jsi $%d. 
+
+[ro]
+TEAM_DEAD = Nu poti paria cand una dintre echipe este moarta! 
+TEAM_DEAD_ODDS = Una dintre echipe este moartaa! 
+SAME_ODDS = Sansele sunt de %d la %d. 
+DIFF_ODDS = Sansele sunt de %d la %d daca pariezi pe teroristi. 
+BET_HELP = Foloseste ^"bet team amount^" ca sa pariezi. Exemple: ^"bet t all^" sau ^"bet ct 250^" sau ^"bet t half^" 
+NO_AMOUNT = Nu aveti bani. Va rugam scrieti ^"bet^" ca sa primiti ajutor. 
+INVALID_TEAM = Nume invalid ^"%s^". Va rugam folositi t sau ct pentru a marca o echipa si sa pariati. 
+NO_MONEY = Nu ai bani cu care sa apriezi! 
+INVALID_AMOUNT = Suma invalida ^"%s^". Va rugam folositi "all, half sau orice alta tasta numerica. 
+BIGGER_BET = Ai $%d, nu poti paria $%d. 
+PLAYER_ALIVE = Poti paria doar daca esti mort. 
+ALREADY_PLACED = Ai pariat deja! 
+BET_PLACED = Ai pariat. Sansele sunt de %d la %d Poti castiga $%d in plus fata de $%d care i-ai pariat. 
+BET_WIN = Ai castigat $%d. 
+BET_LOST = Ai pierdut pariul tau in valoare de $%d.  
+
+[sk]
+TEAM_DEAD = Nemozes stavit, ked je jeden z teamov mrtvy!
+TEAM_DEAD_ODDS = Jeden z teamov je mrtvy!
+SAME_ODDS = Sance su %d k %d.
+DIFF_ODDS = Sance su %d k %d ak stavis na teroristov.
+BET_HELP = Pouzi ^"bet team amount^" pre stavenie si. Priklad: ^"bet t all^" alebo ^"bet ct 250^" alebo ^"bet t half^"
+NO_AMOUNT = Neurcil si ciastku. Pre pomoc napis ^"bet^".
+INVALID_TEAM = Nespravne meno teamu ^"%s^". Pouzi t alebo ct pre oznacenie teamu.
+NO_MONEY = Na stavenie si nemas peniaze!
+INVALID_AMOUNT = Nespravna ciastka ^"%s^". Pouzi all (vsetko), half (polovica) alebo inu, numericku ciastku.
+BIGGER_BET = Mas $%d, nemozes stavit $%d.
+PLAYER_ALIVE = Mozes stavit len vtedy, ked si mrtvy.
+ALREADY_PLACED = Uz si stavil!
+BET_PLACED = Stavka prijata. Sance su %d k %d Mozes vyhrat $%d maximum $%d stavky.
+BET_WIN = Vyhral si $%d.
+BET_LOST = Prehral si $%d. 
+
+[ru]
+TEAM_DEAD = Вы не можете делать ставки, когда вся команда мертва!
+TEAM_DEAD_ODDS = Одна из команд мертва!
+SAME_ODDS = Шансы: %d к %d.
+DIFF_ODDS = Шансы %d к %d если вы сделаете ставку на террористов.
+BET_HELP = Чтобы сделать ставку, напишите в чат ^"bet <команда> <кол-во денег>^".
+NO_AMOUNT = Не задано кол-во денег. Напишите ^"bet^" для получения помощи.
+INVALID_TEAM = Неверное название команды ^"%s^". Используйте "t" или "ct".
+NO_MONEY = У вас не хватает денег!
+INVALID_AMOUNT = Неверная сумма ^"%s^". Используйте "all", "half" или численное значение.
+BIGGER_BET = У вас на счету $%d, поэтому вы не можете поставить $%d.
+PLAYER_ALIVE = Вы можете делать ставки, когда мертвы!
+ALREADY_PLACED = Вы уже сделали ставку!
+BET_PLACED = Ставка сделана. Ваши шансы %d к %d. Вы выиграете $%d сверх вашей ставки $%d.
+BET_WIN = Вы выиграли $%d.
+BET_LOST = Вы проиграли $%d. 
+
+[tc]
+TEAM_DEAD = 當其中一個隊伍已經陣亡你不能下注!
+TEAM_DEAD_ODDS = 其中一個隊伍已經陣亡
+SAME_ODDS = 賠率是 %d 到 %d.
+DIFF_ODDS = 如果你下注恐怖份子,賠率是 %d 到 %d
+BET_HELP = 輸入 ^"bet 隊伍 金額^" 來下注. 例如: ^"bet t all^" 或 ^"bet ct 250^" 或 ^"bet t half^".(all指全部.half指一半)
+NO_AMOUNT = 沒有輸入金額. 請輸入 ^"bet^" 查詢相關功能
+INVALID_TEAM = 無效的隊名 ^"%s^". 請使用 t 或 ct 來選擇一個隊伍
+NO_MONEY = 你沒有錢投注!
+INVALID_AMOUNT = 無效的金額 ^"%s^". 請使用 all 或 half 或任何其他數字金額.(all指全部.half指一半)
+BIGGER_BET = 你只有 $%d, 你不能下注 $%d.
+PLAYER_ALIVE = 你只能陣亡時下注
+ALREADY_PLACED = 你已經下注過!
+BET_PLACED = 投注的賠率是 %d 到 %d 你贏得 $%d ,其中所投注的金額是 $%d
+BET_WIN = 你贏得 $%d.
+BET_LOST = 你輸了 $%d.

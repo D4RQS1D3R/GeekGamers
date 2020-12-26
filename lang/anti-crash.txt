@@ -1,0 +1,11 @@
+﻿[en]
+FUWARN = [Geek~Gamers] %s! A 'fullupdate' command is NOT ALLOWED on this server! (WARN: %i/%i)
+FUBAN = [Geek~Gamers] %s got a permanent ban. Reason: Attempted server crash.
+ABNA = [Geek~Gamers] Autobuy in not allowed!
+ABNA2 = [Geek~Gamers] Check your CONFIG (cstrike/config.cfg)!
+
+[ru]
+FUWARN = [Geek~Gamers] %s! Вы будуте забанены за команду fullupdate! (пред.: %i из %i)
+FUBAN = [Geek~Gamers] %s забанен навечно за попытки вывести сервер из строя.
+ABNA = [Geek~Gamers] Автозакупка оружия на сервере запрещена!  
+ABNA2 = [Geek~Gamers] Проверьте Ваш КОНФИГ (cstrike/config.cfg)!

@@ -1,0 +1,35 @@
+[en]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[ro]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[es]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[de]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[pl]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[fr]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[ru]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[nl]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[bg]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[sv]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[tr]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!
+
+[bp]
+RND_MSG = !t[!tGG!t] !yRound: !t%d !y- Map: !t%s !y| Players: !g%d!y/!g%d !y!

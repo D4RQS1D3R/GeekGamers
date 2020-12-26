@@ -1,0 +1,51 @@
+"Admin Chat Colors"
+fr:"Couleurs de Chat Admin"
+pl:"Kolorowy Chat Admina"
+
+"<color> - changes the message color of all admins"
+fr:"<couleur> - change la couleur des messages des admins"
+pl:"<kolor> - zmienia kolor wiadomosci dla wszystkich adminow"
+
+"<color> - changes the name color of all admins"
+fr:"<couleur> - change la couleur du nom des admins"
+pl:"<kolor> - zmienia nazwe koloru dla wszystkich adminow"
+
+"<0|1> - prohibit/allows admins from seeing all live, dead and team-only messages"
+fr:"<0|1> - desactive/active aux admins la possibilite de voir tous les messages de chat"
+pl:"<0|1> - zabrania/pozwala adminom na widzenie wszystkich wiadomosci"
+
+"[AMX] Message color has been set to %d (name color has been auto-set to 2)."
+fr:"[AMX] La couleur du message a ete reglee sur %d (la couleur du nom a ete reglee auto. a 2)."
+pl:"[AMX] Kolor wiadomosci zostal zmieniony na %d (nazwa koloru zostala automatycznie zmieniona na 2)."
+
+"[AMX] Message color has been set to %d."
+fr:"[AMX] La couleur du message a ete reglee sur %d."
+pl:"[AMX] Kolor wiadomosci zostal zmieniony na %d."
+
+"Usage: amx_color <color> (1=yellow|2=green|3=white|4=blue|5=red)"
+fr:"Utilisation : amx_color <couleur> (1=jaune|2=vert|3=blanc|4=bleu|5=rouge)"
+pl:"Uzycie: amx_color <kolor> (1=zolty|2=zielony|3=bialy|4=niebieski|5=czerwony)"
+
+"[AMX] Name color has been set to %d (message color has been auto-set to 2)."
+fr:"[AMX] La couleur du nom des admins a ete reglee sur %d (la couleur du message a ete reglee auto. a 2)."
+pl:"[AMX] Nazwa koloru zostala zmieniona na %d (kolor wiadomosci zostal automatycznie zmieniony na 2)."
+
+"[AMX] Name color has been set to %d."
+fr:"[AMX] La couleur du nom des admins a ete reglee sur %d."
+pl:"[AMX] Nazwa koloru zostala zmieniona na %d."
+
+"Usage: amx_namecolor <color> (1=yellow|2=green|3=white|4=blue|5=red|6=team color)"
+fr:"Utilisation : amx_namecolor <couleur> (1=jaune|2=vert|3=blanc|4=bleu|5=rouge|6=couleur d'equipe)"
+pl:"Uzycie: amx_namecolor <kolor> (1=zolty|2=zielony|3=bialy|4=niebieski|5=czerwony|6=kolor druzyny)"
+
+"[AMX] Admin listen has been %s."
+fr:"[AMX] La visibilite aux admins des messages de chat a ete %s."
+pl:"[AMX] Widzenie wszystkich wiadomosci czatu zostalo %s."
+
+"enabled"
+fr:"activee"
+pl:"wlaczone"
+
+"disabled"
+fr:"desactivee"
+pl:"wylaczone"

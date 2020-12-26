@@ -1,0 +1,59 @@
+[en]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Auto Restart Round In ^n %d Sec.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Game Started. Go Go Go !!!
+
+[de]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automatischer Runden Neustart In ^n %d Sek.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Spiel Gestartet. Los Los Los !!!
+
+[sv]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automatisk omstart av runda om ^n %d sekunder
+GAME_STARTED = -=[Geek~Gamers]=- ^n Spelet har b'o'rjat. Go Go Go !!!
+
+[es]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Auto-Restart en ^n %d Segundos.
+GAME_STARTED = -=[Geek~Gamers]=- ^n El juego ha empezado, que tengas suerte !!!
+
+[lt]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automatinis Round'o Restartas Bus Uz ^n %d Sekundziu.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Zaidimas Restartuotas. Pirmyn Pirmyn Pirmyn !!!  
+
+[nl]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n De ronde herstart automatisch in ^n %d seconden
+GAME_STARTED = -=[Geek~Gamers]=- ^n Het spel is gestart. Ga Ga Ga!!!
+
+[bg]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Avtomatichnoto restartirane na runda shte zapochne sled ^n %d sekundi
+GAME_STARTED = -=[Geek~Gamers]=- ^n Igrata zapochna. Davai davai davai!!! 
+
+[fin]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automaattinen kierroksen uudelleenkäynnistys ^n %d sekunnissa
+GAME_STARTED = -=[Geek~Gamers]=- ^n Peli alkoi. Mene Mene Mene!!!
+
+[sr]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automatski start nove runde za ^n %d sekundi
+GAME_STARTED = -=[Geek~Gamers]=- ^n Igra je pocela. idemo idemo idemo !!!
+
+[pt]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Reinicio automático da ronda em ^n %d Seg
+GAME_STARTED = -=[Geek~Gamers]=- ^n O jogo começou. Vai Vai Vai !!! 
+
+[pl]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Auto Restart Round za ^n %d Sek.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Gra rozpoczeta. Ruchy Ruchy Ruchy !!!
+
+[ro]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Urmeaza un auto-restart in ^n %d secunde
+GAME_STARTED = -=[Geek~Gamers]=- ^n Joc repornit.  GL&HF !!!
+
+[cz]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automaticky Restart Kola Za ^n %d Sek.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Hra zacala. Go Go Go !!! 
+
+[fr]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Redemarrage automatique du round dans ^n %d Sec.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Le jeu a commence. En avant !!!
+
+[sk]
+AUTO_RESTART = -=[Geek~Gamers]=- ^n Automaticky Restart Kola Za ^n %d Sek.
+GAME_STARTED = -=[Geek~Gamers]=- ^n Hra zacala. Go Go Go !!! 
