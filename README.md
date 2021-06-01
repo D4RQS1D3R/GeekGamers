@@ -1,3 +1,3 @@
 # GeekGamers
 
-GeekGamers Furien Mod scripts, mod resources are not included.
+Counter-Strike GeekGamers Furien Mod scripts, mod resources are not included.
